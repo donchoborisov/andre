@@ -44,7 +44,7 @@
 
                     <div class="hero-buttons">
 
-                        <a href="https://www.youtube.com/" class="button button-white">Screen cast</a>
+                        <a href="https://www.youtube.com/" class="button button-white">Screen castststststs</a>
                         <a href="https://github.com/donchoborisov/andre/branches" class="button button-white">Github</a>
 
                     </div>
