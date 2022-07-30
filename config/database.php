@@ -53,7 +53,7 @@ return [
             'prefix' => '',
             'prefix_indexes' => true,
             'strict' => true,
-            'unix_socket'   => '/Applications/MAMP/tmp/mysql/mysql.sock',
+            // 'unix_socket'   => '/Applications/MAMP/tmp/mysql/mysql.sock',
             'engine' => null,
         ],
 
