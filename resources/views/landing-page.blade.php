@@ -44,8 +44,8 @@
 
                     <div class="hero-buttons">
 
-                        <a href="#" class="button button-white">Button 1</a>
-                        <a href="#" class="button button-white">Button 2</a>
+                        <a href="https://www.youtube.com/" class="button button-white">Screen cast</a>
+                        <a href="https://github.com/donchoborisov/andre/branches" class="button button-white">Github</a>
 
                     </div>
                 </div> <!--end hero copy -->
