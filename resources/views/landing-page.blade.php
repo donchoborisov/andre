@@ -39,7 +39,7 @@
 
             <div class="hero container">
                 <div class="hero-copy">
-                    <h1>CSS Grid Example</h1>
+                    <h1>CSS Grid Example 9</h1>
                     <p>Practical example of using CSS grid</p>
 
                     <div class="hero-buttons">
